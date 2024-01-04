@@ -1,0 +1,14 @@
+Flappy Bird
+    
+How To Play:
+    1. To start the game, press the 'ENTER' key 
+    2. After starting the game, you will have 10 seconds to move the bird to the tunnel.
+    3. If you hit the enemy, bird then you LOSE!
+    3. If you get the bird to the tunnel within 10 seconds, you WIN! 
+       If you go over 10 seconds, you LOSE!
+    
+To move the bird, use the 'ARROW KEYS':
+    - 'RIGHT' arrow: moves the bird to the right
+    - 'LEFT' arrow: moves the bird to the left
+    - 'UP' arrow: moves the bird up
+    - 'DOWN' arrow: moves the bird down 

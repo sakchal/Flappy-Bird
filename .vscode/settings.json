@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "*.ejs": "html",
+        "lose_screen.h": "c"
+    }
+}
